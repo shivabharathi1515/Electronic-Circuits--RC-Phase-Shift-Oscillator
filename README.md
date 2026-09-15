@@ -51,5 +51,5 @@ PC with LT Spice software
 
 
 39.	## RESULT:
-40.	<img width="1430" height="456" alt="image" src="https://github.com/user-attachments/assets/bf7efbf2-27d4-4e80-bd80-967906a21aaa" />
+40.	<img width="1600" height="460" alt="image" src="https://github.com/user-attachments/assets/34754fe9-a4c3-4be1-82e4-08f5445bf0fc" />
 
